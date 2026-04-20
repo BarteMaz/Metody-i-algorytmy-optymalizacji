@@ -1,4 +1,4 @@
 ITEM = _(1..5);
-capacity = 147;
-profits = [21, 83, 43, 38, 25];
-weights = [95, 97, 44, 42, 16];
+capacity = 107;
+profits = [30, 22, 34, 77, 20];
+weights = [26, 12, 98, 68, 10];
